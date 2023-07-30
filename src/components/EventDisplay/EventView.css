@@ -1,0 +1,13 @@
+.event_view{ 
+    display:flex;
+    margin: 5rem 10rem;
+    background-image: linear-gradient(to right bottom,rgb(91, 91, 170),blue); 
+} 
+
+.event_view-image{
+    width:25rem;
+    background-size: cover;
+}
+.event_view-content{
+    padding: 3rem;
+}

@@ -1,0 +1,22 @@
+.event_container{
+    width:16rem; 
+    background-image: linear-gradient(to right bottom,rgb(117, 117, 177),blue);
+}
+
+.event_container-img_container{
+    height: 10rem;
+}
+
+.event_container-img{
+    width:16rem;
+    height:10rem;
+}
+
+.event_container-content{
+    padding: 1rem 2rem;
+}
+
+.event_container-button{
+    display: flex;
+    justify-content: space-around;
+}
